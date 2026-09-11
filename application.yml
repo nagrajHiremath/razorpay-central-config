@@ -12,7 +12,7 @@ spring:
   datasource:
     hikari:
       maximum-pool-size: 50
-    username: anuj
+    username: admin
     password: password
     driver-class-name: org.postgresql.Driver
   data:
